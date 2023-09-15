@@ -6,6 +6,9 @@ TagManager:
   tags:
   - rzone
   - lzone
+  - 2xR
+  - 2xL
+  - bounds
   layers:
   - Default
   - TransparentFX
